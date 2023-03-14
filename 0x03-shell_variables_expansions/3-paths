@@ -1,2 +1,2 @@
 #!/bin/bash
-NUM_DIRS=${#DIRS[@]}
+echo $PATH  tr | ':' '/n' | wc -1
