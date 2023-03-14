@@ -1,2 +1,2 @@
 #!/bin/bash
-result=$(expr 128 + $trueknowledge)
+result=$(( 128 + $trueknowledge))
