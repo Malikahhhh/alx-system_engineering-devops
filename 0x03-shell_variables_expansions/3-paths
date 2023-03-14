@@ -1,0 +1,2 @@
+#!/bin/bash
+NUM_DIRS=${#DIRS[@]}
