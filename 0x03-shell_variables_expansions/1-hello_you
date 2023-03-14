@@ -1,2 +1,2 @@
 #!/bin/bash
-ptintf "hello user"
+printf "hello user"
